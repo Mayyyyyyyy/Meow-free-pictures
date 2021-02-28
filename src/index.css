@@ -68,7 +68,7 @@ body {
   width:300px;
   height:380px;
   margin:auto;
-  border:1px solid #698aab;
+  /* border:1px solid #698aab; */
   border-radius: 8px;
   overflow: hidden;
   /* display: flex;
@@ -76,6 +76,7 @@ body {
   align-items: center;
   justify-content: center; */
   text-align: center;
+  background-color: #96d1da;
 }
 
 .card:hover{
